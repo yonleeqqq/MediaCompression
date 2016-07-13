@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.test.MainActivity">
+
+    <item
+        android:id="@+id/action_0"
+        android:title="Resolution:176,Bitrate:56Kbps"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_1"
+        android:title="Resolution:640,Bitrate:500Kbps"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_2"
+        android:title="Resolution:720,Bitrate:1000Kbps"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_3"
+        android:title="Resolution:1080,Bitrate:2Mbps"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_4"
+        android:title="Resolution:1280x720,Bitrate:1Mbps"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_5"
+        android:title="Resolution:1920x1080,Bitrate:5Mbps"
+        app:showAsAction="always" />
+
+</menu>
